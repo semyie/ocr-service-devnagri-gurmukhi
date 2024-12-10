@@ -2,3 +2,4 @@
 .vscode/
 models/
 credentials.json
+dependencies.txt
