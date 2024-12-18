@@ -1,12 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+poetry
 langdetect
 tqdm
 edit_distance
 munch
 fire
-
-# Image processing libs
 Pillow
-opencv-python
+opencv-python-headless
 imageio
 scikit-image
 numpy
@@ -14,6 +16,6 @@ docdetect
 docscan
 deskew
 pyboof
-
-# Detection libs
 nms
+pytesseract
+easyocr
